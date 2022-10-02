@@ -1,2 +1,2 @@
 # Django
-Django projects are inclueded
+Django projects are included
